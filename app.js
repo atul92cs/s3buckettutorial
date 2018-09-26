@@ -7,9 +7,9 @@ var aws=require('aws-sdk');
 var app=express();
 
 aws.config.update({
-  secretAccessKey:'4Kmh6CIT3O6klSLkGf0ULl9UwrPT9Agjpd1qexxv',
-  accessKeyId:'AKIAJ5S6DR6RYOY6YO6A',
-  region:'us-east-1'
+  secretAccessKey:'xxxxxxxxx',
+  accessKeyId:'xxxxxxx',
+  region:'xxxxx'
 });
 
 var app=express(),
